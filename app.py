@@ -1,0 +1,2 @@
+print('Hayi ndisezweyini')
+var =
